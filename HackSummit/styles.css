@@ -1,0 +1,55 @@
+.img{
+    display:flex;
+}
+
+/* .login{
+    justify-content: center;
+} */
+
+.card{
+    display:flex;
+    margin:50px;
+}
+
+.card-text{
+    justify-content: center;
+    text-align: center;
+    /* height:100vh; */
+    align-items: center;
+}
+
+.button{
+    color:#000000;
+}
+
+
+.container-fluid{
+    margin-left:10px;
+}
+
+.card-title{
+    justify-content: center;
+    text-align: center;
+    /* height:100vh; */
+    align-items: center;
+}
+
+.btn-primary{
+    justify-content: center;
+    text-align: center;
+    /* height:100vh; */
+    align-items: center;
+    margin-left:75px;
+}
+
+body{
+    background-color: #000000;
+    /* background-color: azure; */
+}
+
+.container{
+    /* background-color: #ffffff92; */
+    background-color: #c4c4c692;
+    
+    /* 4A6B55 */
+}
